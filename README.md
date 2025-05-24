@@ -9,29 +9,6 @@ This tool helps you analyze Sanskrit verses and identify their metrical patterns
 - Calculate metrical statistics
 - Beautiful, colorful CLI interface
 
-## Installation
-
-1. Make sure you have Python 3.6+ installed
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-### Quick Analysis
-
-For the most user-friendly experience, run:
-
-```
-python analyze.py
-```
-
-This will start the interactive verse analyzer with a beautiful interface. 
-Enter your verse and press Enter on a blank line to analyze it.
-
-
-## Examples
 
 ### Example 1 - Anuṣṭup (Śloka)
 
