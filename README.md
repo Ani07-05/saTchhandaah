@@ -30,22 +30,6 @@ python analyze.py
 This will start the interactive verse analyzer with a beautiful interface. 
 Enter your verse and press Enter on a blank line to analyze it.
 
-### Alternative Methods
-
-1. **Command Line Interface:**
-   ```
-   python sanskrit_verse_analyzer.py -v "वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।"
-   ```
-
-2. **Analyze from File:**
-   ```
-   python sanskrit_verse_analyzer.py -f verse.txt
-   ```
-
-3. **Simple Interface:**
-   ```
-   python analyze_custom_verse.py
-   ```
 
 ## Examples
 
