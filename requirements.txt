@@ -1,0 +1,12 @@
+# Core dependencies
+indic-transliteration>=2.0.0
+pyicu>=2.9.0
+regex>=2022.10.31
+numpy==1.24.3  # Specific version that works with chandas library
+
+# Optional dependencies (comment out if causing issues)
+# pandas==1.5.3  # Version compatible with numpy 1.24.3
+# matplotlib>=3.5.0
+
+# Testing dependencies
+pytest>=7.0.0
